@@ -8,7 +8,7 @@ const pool = require("./db");
 //create an instance of express
 const app = express();
 
-// middleware
+// middleware dsfd
 app.use(cors());
 app.use(express.json());
 
